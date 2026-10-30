@@ -1,0 +1,13 @@
+GROCERY RECEIPT (SYNTHETIC DATA)
+MILK 2% GAL            4.49
+EGGS DOZEN             3.99
+BASMATI RICE 10LB     14.99
+GREEK YOGURT           5.49
+CHICKEN BREAST        11.87
+SPINACH                3.29
+OLIVE OIL              9.99
+OAT MILK               4.79
+PANEER                 6.99
+SUBTOTAL              65.89
+TAX                    2.10
+TOTAL                 67.99

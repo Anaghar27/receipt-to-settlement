@@ -1,0 +1,13 @@
+SYNTHETIC BISTRO (SYNTHETIC DATA)
+TABLE FOUR, PARTY OF THREE
+MARGHERITA PIZZA      16.50
+CAESAR SALAD          11.25
+PAD THAI              14.75
+GARLIC NAAN            4.50
+MANGO LASSI            5.25
+TIRAMISU               8.95
+SUBTOTAL              61.20
+TAX 8.875%             5.43
+TIP 18%               11.02
+TOTAL                 77.65
+THANK YOU!
